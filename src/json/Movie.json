@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Avengers: Endgame",
+      "studio": "Marvel Studios",
+      "releaseDate": "2019-04-26",
+      "status": "Released"
+    },
+    {
+      "title": "The Lion King",
+      "studio": "Walt Disney Pictures",
+      "releaseDate": "2019-07-19",
+      "status": "Released"
+    },
+    {
+      "title": "Joker",
+      "studio": "Warner Bros. Pictures",
+      "releaseDate": "2019-10-04",
+      "status": "Released"
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "studio": "Sony Pictures",
+      "releaseDate": "2021-12-17",
+      "status": "Released"
+    },
+    {
+      "title": "Avatar",
+      "studio": "20th Century Studios",
+      "releaseDate": "2009-12-18",
+      "status": "Released"
+    },
+    {
+      "title": "Black Panther",
+      "studio": "Marvel Studios",
+      "releaseDate": "2018-02-16",
+      "status": "Released"
+    },
+    {
+      "title": "Inception",
+      "studio": "Warner Bros. Pictures",
+      "releaseDate": "2010-07-16",
+      "status": "Released"
+    },
+    {
+      "title": "Frozen",
+      "studio": "Walt Disney Pictures",
+      "releaseDate": "2013-11-27",
+      "status": "Released"
+    },
+    {
+      "title": "The Dark Knight",
+      "studio": "Warner Bros. Pictures",
+      "releaseDate": "2008-07-18",
+      "status": "Released"
+    },
+    {
+      "title": "The Avengers",
+      "studio": "Marvel Studios",
+      "releaseDate": "2012-05-04",
+      "status": "Released"
+    }
+  ]
+  
